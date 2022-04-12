@@ -1,0 +1,45 @@
+.menu{
+
+    box-shadow: rgba(0, 38, 255, 0.753) 0px 5px 15px;
+    border-radius: 5px;
+    width: 300px;
+    height:500px;
+
+}
+
+.yazi{
+
+    font-family: Arial, Helvetica, sans-serif;
+    width:75%;
+    font-size: 20px;
+
+}
+
+.yazix{
+
+    font-family: Arial, Helvetica, sans-serif;
+    width:75%;
+    font-size: 17px;
+
+}
+
+.buton{
+
+    background-color: rgba(0, 119, 255, 0.753);
+    border:none;
+    border-radius: 2px;
+    width: 200px;
+    height: 30px;
+    color: white;
+
+}
+
+.cnt{
+
+    box-shadow: rgba(0, 38, 255, 0.753) 0px 5px 15px;
+    border:none;
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+
+}
